@@ -11,7 +11,10 @@ A fun **Simon Says** game built with **HTML, CSS, and JavaScript**.
 ## 🛠️ Technologies Used  
 - **HTML**  
 - **CSS**  
-- **JavaScript**  
+- **JavaScript**
+
+## 🎮 Play the Game Here!
+👉 [Click to Play](https://DiptanshuVishwa.github.io/simon-says-game/)
 
 ## 📂 Project Structure  
 /simonSayGame │── simonSayGame.html # Main game file
@@ -23,11 +26,4 @@ A fun **Simon Says** game built with **HTML, CSS, and JavaScript**.
 2. **Repeat the sequence** in the correct order.  
 3. **Each round adds a new step** – Keep going!  
 
-## 📌 Future Improvements  
-- Add difficulty levels  
-- Implement score tracking  
-- Mobile responsiveness  
-
----
-
-Now your **Simon Says game** is on GitHub! 🎉 Let me know if you need help. 🚀
+to clone use - https://github.com/DiptanshuVishwa/simon-says-game.git
